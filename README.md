@@ -102,8 +102,7 @@ class SimpleCalc:
 
 - Running the test with `python -m unittest discover -v`
 ```
-python -m unittest dis
-cover -v
+python -m unittest discover -v
 test_add (test_unittest_simplecalc.CalcTest) ... ok
 test_divide (test_unittest_simplecalc.CalcTest) ... ok
 test_multiply (test_unittest_simplecalc.CalcTest) ... ok
