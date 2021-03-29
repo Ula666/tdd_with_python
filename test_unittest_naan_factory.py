@@ -3,8 +3,6 @@ from naan_factory import NaanFactory
 import unittest
 
 
-# run_factory()
-
 class FactoryTest(unittest.TestCase):
     factory = NaanFactory()
 

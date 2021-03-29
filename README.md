@@ -1,6 +1,11 @@
-# TDD - Test Driven Development
-## Why should we use TDD?
-## What are benefits?
+## TDD - Test Driven Development
+### Why should we use TDD and benefits?
+- Acceptance Criteria -  Use acceptance criteria as a means to know what you need to test and then,
+  once you've got that list in the form of test code, you can rest safely in the knowledge that you haven't missed any work.
+  
+- Fewer Bugs - If a bug does come up, you can write a test first before attempting to fix the problem, to ensure that the bug won't come up again. This also helps define what the bug actually is, as you always need reproducible steps.  
+
+
 **Best Use Cases**
 - We will use Pytest unittest in Python to implement TDD
 
